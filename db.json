@@ -1,6 +1,30 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Jersey Full Movie",
+        "Image": "https://img.doodcdn.co/cover/ccjjjzxiivq83x11-ugacm40tdnc3.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "lem81v2mobbd",
+        "id": 4
+        },
+        {
+        "Title": "Honeymoon Full Movie",
+        "Image": "https://occ-0-1433-1723.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABT0eQY_zSpgjjocp4I2Vp6I6xY5KC8B9JP3dn8t4lUYq0QCmY01eT08aP6l-EsuZd7XngQJBvEA6_BJ_7YcFtsgWk9zyC9BuDty5.jpg?r=c28",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "44pv1jfvdt0d",
+        "id": 3
+        },
+        {
+        "Title": "Flames S3",
+        "Image": "https://img.doodcdn.co/cover/i86w07bjbxxgfl1w-jy5ojaflndbd.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "4p1j2qno1y24",
+        "id": 2
+        },
+        {
         "Title":"Pelli SandaD Full Movie",
         "Image":"https://img.doodcdn.co/cover/l8vnence5sdisocc-5z8h91kixhr3.jpg",    
         "MainCategory":"Movies",
