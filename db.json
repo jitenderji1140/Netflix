@@ -1,6 +1,62 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Vivah Bollywood Hindi Full Movie",
+        "Image": "https://i.ytimg.com/vi/EdJW_i9_Pc0/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "2t1rn7pctojt",
+        "id": 12
+        },
+        {
+        "Title": "Uunchai Full Movie",
+        "Image": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1666099569.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "xnboitpbnz3w",
+        "id": 11
+        },
+        {
+        "Title": "Drishyam 2 Full Movie",
+        "Image": "https://i.ytimg.com/vi/4FjTX9u2p5g/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "9ojfg0v9qb5w",
+        "id": 10
+        },
+        {
+        "Title": "Mili Full Movie",
+        "Image": "https://img.doodcdn.co/cover/zre7kg0rasfwuej7-k7j80gkxxofx.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "ojmlxy6338i5",
+        "id": 9
+        },
+        {
+        "Title": "Kantra Full Movie HD 1080p",
+        "Image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/11/Untitled1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "auoy3jngx2i5",
+        "id": 8
+        },
+        {
+        "Title": "Physics Wallah S1",
+        "Image": "https://shoutingstars.com/wp-content/uploads/2022/12/01D0CE78-F33C-4FC0-AAE6-7F1CCB7BEE7B.png",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "46tqma68y29m",
+        "id": 7
+        },
+        {
+        "Title": "Fall S1",
+        "Image": "https://img.doodcdn.co/cover/t3koai8jh5w6vek3-zrmcaexnqpt0.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "u147m5xb94xg",
+        "id": 6
+        },
+        {
         "Title": "Double XL Full Movie in hindi",
         "Image": "https://img.doodcdn.co/cover/ob3wobdupcxyt071-yezzhvgff00e.jpg",
         "MainCategory": "Movies",
