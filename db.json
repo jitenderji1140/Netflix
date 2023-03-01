@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Double XL Full Movie in hindi",
+        "Image": "https://img.doodcdn.co/cover/ob3wobdupcxyt071-yezzhvgff00e.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "nf5thcf6r1qx",
+        "id": 5
+        },
+        {
         "Title": "Jersey Full Movie",
         "Image": "https://img.doodcdn.co/cover/ccjjjzxiivq83x11-ugacm40tdnc3.jpg",
         "MainCategory": "Movies",
