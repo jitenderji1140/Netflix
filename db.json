@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "X Ray: The Inner Image Full Movie",
+        "Image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2019/11/X-Ray-The-Inner-Image-585x405.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "hvbbhhwmy1e2",
+        "id": 13
+        },
+        {
         "Title": "Vivah Bollywood Hindi Full Movie",
         "Image": "https://i.ytimg.com/vi/EdJW_i9_Pc0/maxresdefault.jpg",
         "MainCategory": "Movies",
