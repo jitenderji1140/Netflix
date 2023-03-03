@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Hit the First Case Full Movie",
+        "Image": "https://i.ytimg.com/vi/vr2XnkyEQJ8/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Crime",
+        "FileID": "oblslo02wrr1",
+        "id": 25
+        },
+        {
         "Title": "Mirzapur 2018 Season 1",
         "Image": "https://webseriestale.com/wp-content/uploads/2020/07/mirzapur-season-1-web-series.jpg",
         "MainCategory": "WebSeries",
