@@ -1,6 +1,22 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Major Full Movie",
+        "Image": "https://vijaysolution.com/wp-content/uploads/2022/06/Major-Movie-Download-Filmyzilla-Review-480p-720p-1080p.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "l5hnq88eosxp",
+        "id": 27
+        },
+        {
+        "Title": "I Hate Christmas S1",
+        "Image": "https://occ-0-64-1348.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABfqoE8GcnACjr6uQNe590svabV8fA3Fo5cZ7E3ot1bTBdKzB9ER-6ja3YDmoYqbmKQArdCuECLPh5ErkpAl3eEBXbD--TtAglk1J.jpg?r=82f",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "rr8aq3f2zzwh",
+        "id": 26
+        },
+        {
         "Title": "Hit the First Case Full Movie",
         "Image": "https://i.ytimg.com/vi/vr2XnkyEQJ8/maxresdefault.jpg",
         "MainCategory": "Movies",
