@@ -1,6 +1,54 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Barun Rai and the House on the Cliff Full Movie",
+        "Image": "https://britasia.tv/wp-content/uploads/2021/10/barunrai.jpeg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "yw4uondvpw9m",
+        "id": 23
+        },
+        {
+        "Title": "Khaao Piyo Aish Karo Full Movie",
+        "Image": "https://i.ytimg.com/vi/zNZUrIdwzuA/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "eg1ajbx2cot7",
+        "id": 22
+        },
+        {
+        "Title": "Mirzapur 2020 Season 2",
+        "Image": "https://www.iwmbuzz.com/wp-content/uploads/2020/02/all-you-need-to-know-about-mirzapur-season-2.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "rcjqnaefnn73",
+        "id": 21
+        },
+        {
+        "Title": "Lekh Punjabi Full Movie",
+        "Image": "https://i.ytimg.com/vi/KeVP1cLhyb0/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "yzw9poeweh8f",
+        "id": 20
+        },
+        {
+        "Title": "Judaa Hoke Bhi Full Movie",
+        "Image": "https://www.famousbollywood.com/wp-content/uploads/2022/09/Judaa-Hoke-Bhi-2022-Movie-Download.webp",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "rh6557d94w10",
+        "id": 19
+        },
+        {
+        "Title": "Mister Mummy Full Movie",
+        "Image": "https://www.famousbollywood.com/wp-content/uploads/2022/11/Mister-Mummy-Movie-Download.webp",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "ak71tbgwaf9b",
+        "id": 18
+        },
+        {
         "Title": "taaza khabar",
         "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5001/1445001-h-afaa07019b4d",
         "MainCategory": "WebSeries",
