@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Mirzapur 2018 Season 1",
+        "Image": "https://webseriestale.com/wp-content/uploads/2020/07/mirzapur-season-1-web-series.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "98zbuzgz6mzm",
+        "id": 24
+        },
+        {
         "Title": "Barun Rai and the House on the Cliff Full Movie",
         "Image": "https://britasia.tv/wp-content/uploads/2021/10/barunrai.jpeg",
         "MainCategory": "Movies",
