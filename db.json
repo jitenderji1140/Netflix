@@ -1,6 +1,22 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "taaza khabar",
+        "Image": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5001/1445001-h-afaa07019b4d",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "tq3ajwbw3hjk",
+        "id": 17
+        },
+        {
+        "Title": "Middle Class Love",
+        "Image": "https://www.famousbollywood.com/wp-content/uploads/2022/09/Middle-Class-Love-2022-Movie-Download-.webp",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "dhro3656m0v2",
+        "id": 16
+        },
+        {
         "Title": "Swagger Sharma Trust Issues",
         "Image": "https://images.ottplay.com/images/poster-of-the-show-418.jpg?impolicy=ottplay-20210210&width=1200&height=675",
         "MainCategory": "WebSeries",
