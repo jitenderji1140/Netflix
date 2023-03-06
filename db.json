@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Chhatriwali Full Movie",
+        "Image": "https://postimg.cc/f3Tc3L4Y",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "2e5ftbdrdtin",
+        "id": 30
+        },
+        {
         "Title": "Rafta Rafta S1",
         "Image": "https://postimg.cc/tnFm4TPF",
         "MainCategory": "WebSeries",
