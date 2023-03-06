@@ -1,6 +1,62 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Gandii Baat S7",
+        "Image": "https://i.postimg.cc/vmjcZbF9/1677329900084061800-73.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "srdy0fsco10n",
+        "id": 44
+        },
+        {
+        "Title": "Stree Full Movie",
+        "Image": "https://i.postimg.cc/VNJRdfTW/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "hoyc7emu7wl6",
+        "id": 43
+        },
+        {
+        "Title": "Varisu Hindi Dubbed Full Movie",
+        "Image": "https://i.postimg.cc/4xKt17xj/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "f5lxxhkkw58n",
+        "id": 41
+        },
+        {
+        "Title": "The Strays Hindi Dubbed",
+        "Image": "https://i.postimg.cc/rmFj9y0b/tt16437278.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "j8apejfcdpwh",
+        "id": 40
+        },
+        {
+        "Title": "Kabir Singh - Full Movie",
+        "Image": "https://i.postimg.cc/s2d4bDk1/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "ogviufnptexb",
+        "id": 39
+        },
+        {
+        "Title": "Class S1",
+        "Image": "https://i.postimg.cc/QCVZWbxB/CLASSWRR-1675587492295.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Crime",
+        "FileID": "pij63slrnn0i",
+        "id": 38
+        },
+        {
+        "Title": "Jehanabad : Of Love & War S1",
+        "Image": "https://i.postimg.cc/rsLvnJQY/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Crime",
+        "FileID": "d790k3o040b9",
+        "id": 37
+        },
+        {
         "Title": "The Teacher Hindi Dubbed Full Movie",
         "Image": "https://i.postimg.cc/HxbxK64q/dgv8y25fxsqw7kz3-c3t1oatcwx8b.jpg",
         "MainCategory": "Movies",
