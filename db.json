@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Jhansi S2 Hotstar",
+        "Image": "https://postimg.cc/p5ZcjdV8",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "a2i333qsl5m1",
+        "id": 31
+        },
+        {
         "Title": "Chhatriwali Full Movie",
         "Image": "https://postimg.cc/f3Tc3L4Y",
         "MainCategory": "Movies",
