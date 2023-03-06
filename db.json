@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Maha 2023 Full Movie",
+        "Image": "https://i.postimg.cc/WpG32fLz/Maha-Tamil-Movie-Poster-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "p6arnj35oh5j",
+        "id": 35
+        },
+        {
         "Title": "18 Pagess 2022 Full Movie",
         "Image": "https://i.postimg.cc/k45mqB7n/18-Pages-e1672202387553.jpg",
         "MainCategory": "Movies",
