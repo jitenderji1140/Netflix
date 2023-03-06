@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Jaanbaaz Hindustan Ke S1",
+        "Image": "https://i.postimg.cc/5NwDkSmv/Jaanbaaz-Hindustan-Ke.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "3y1cgih34lxl",
+        "id": 32
+        },
+        {
         "Title": "Jhansi S2 Hotstar",
         "Image": "https://i.postimg.cc/8s82qFqy/image.jpg",
         "MainCategory": "WebSeries",
