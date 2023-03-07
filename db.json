@@ -1,6 +1,70 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Khidki (2023) S1 Part 2",
+        "Image": "https://i.postimg.cc/YSfzxnQy/image.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "m0fq3805eeuk",
+        "id": 52
+        },
+        {
+        "Title": "Ramaiya Vastavaiya Full Movie",
+        "Image": "https://i.postimg.cc/LXPD19NL/Ramaiya-Vastavaiya740x41609d2282d716443f8b0add976d842e19d.webp",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "hg1bfvwywwql",
+        "id": 51
+        },
+        {
+        "Title": "Taj: Divided by Blood S1",
+        "Image": "https://i.postimg.cc/6QWFn1PY/Taj-Divided-by-blood-season-1-total-run-time-episodes-list-and-length.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "zimkoqb70lsq",
+        "id": 50
+        },
+        {
+        "Title": "Daisy Jones & The Six S1 Hindi",
+        "Image": "https://i.postimg.cc/rFpJG2yd/x5W6zLH.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "a4pxwotcwff4",
+        "id": 49
+        },
+        {
+        "Title": "Jaggu Ani Juliet Hindi Dubbed",
+        "Image": "https://i.postimg.cc/sg5CzWFC/Jaggu-Ani-Juliet-Marathi-Movie-Download-1024x576.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "kacu29sz9c8g",
+        "id": 48
+        },
+        {
+        "Title": "The Pimp : No F***ing Fairytale S1 Hindi",
+        "Image": "https://i.postimg.cc/6pZc1Vkn/The-Pimp-No-F-ing-Fairytale.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "mnl5zbj5e4hz",
+        "id": 47
+        },
+        {
+        "Title": "Farzi S1 Hindi HQ",
+        "Image": "https://i.postimg.cc/9F01hH7d/Farzi-Season-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "45b0ndi6w7js",
+        "id": 46
+        },
+        {
+        "Title": "Love Guru S2 Part 2",
+        "Image": "https://i.postimg.cc/d3j31VS5/love-guru-season-2-part-2.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "pvdiz8o9x0gi",
+        "id": 45
+        },
+        {
         "Title": "Gandii Baat S7",
         "Image": "https://i.postimg.cc/vmjcZbF9/1677329900084061800-73.jpg",
         "MainCategory": "Adult",
