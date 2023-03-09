@@ -1,6 +1,70 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Charmsukh Chawl House 3 Ullu Originals",
+        "Image": "https://i.postimg.cc/YS0Qmnqn/Bn22yUr.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "nw6g6l7yqjlr",
+        "id": 61
+        },
+        {
+        "Title": "Chull Dhulai S1 E8 Kooku Originals",
+        "Image": "https://i.postimg.cc/7PNBrRcd/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Kooku",
+        "FileID": "oe7p3ibkgoso",
+        "id": 60
+        },
+        {
+        "Title": "Braveheart Hindi Dubbed",
+        "Image": "https://i.postimg.cc/m2j2MTnj/previews-0012-custom-1564645678-4376.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "dx9vexh8y9z7",
+        "id": 59
+        },
+        {
+        "Title": "Antim:The Final Truth Full Movie",
+        "Image": "https://i.postimg.cc/85GzMsTy/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "rt82f46ffa00",
+        "id": 58
+        },
+        {
+        "Title": "Satyameva Jayate 2 HD Full Movie",
+        "Image": "https://i.postimg.cc/tCBkcVfx/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "xyaq5404d4ps",
+        "id": 57
+        },
+        {
+        "Title": "Atrangi Re Full Movie in Hindi",
+        "Image": "https://i.postimg.cc/sDnFJx4n/atrangi-re-full-movie-download-filmywap.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "hoixnyqxewc8",
+        "id": 56
+        },
+        {
+        "Title": "Tiktiki S1 Hindi Dubbed Hoichoi Original",
+        "Image": "https://i.postimg.cc/7YftwhwT/Tiktiki-official-poster.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "einnph2yg3fu",
+        "id": 55
+        },
+        {
+        "Title": "Charmsukh Jane Anjane Mein 5 Part 2 Ullu Originals",
+        "Image": "https://i.postimg.cc/G29rRr23/image.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "1uibqqhulccr",
+        "id": 54
+        },
+        {
         "Title": "Mohan Chabhiwala S1 Part 1 Ullu Originals",
         "Image": "https://i.postimg.cc/HsnDBnBg/image.jpg",
         "MainCategory": "Adult",
