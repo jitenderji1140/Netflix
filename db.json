@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Rana Naidu Hindii S1",
+        "Image": "https://i.postimg.cc/KYqRgdc1/rana-naidu.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Crime",
+        "FileID": "idndz4wl7ovl",
+        "id": 79
+        },
+        {
         "Title": "Choti Bahu S1E1 Hunters Originals",
         "Image": "https://i.postimg.cc/Dz1f6PHF/Choti-Bahu-Hunters-Web-Series-Cast-Release-Date-Watch-Online.jpg",
         "MainCategory": "Adult",
