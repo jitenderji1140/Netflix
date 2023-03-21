@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Badan_S1_Part_1_Ullu",
+        "Image": "https://i.postimg.cc/44KQv5pn/image.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "scwrdyl08fa2",
+        "id": 80
+        },
+        {
         "Title": "Rana Naidu Hindii S1",
         "Image": "https://i.postimg.cc/KYqRgdc1/rana-naidu.jpg",
         "MainCategory": "WebSeries",
