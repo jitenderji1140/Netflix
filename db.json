@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Hunter Tootega Nahi, Todega S1",
+        "Image": "https://i.postimg.cc/x8WPHnkb/a8828480a2d968ff4e8cc4c4ea77d67c88ff701d7326ad322e4d753b52cc1f81.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Action",
+        "FileID": "nha3rjuf8f7y",
+        "id": 82
+        },
+        {
         "Title": "Pathaan Full Movie in Hindi HD",
         "Image": "https://i.postimg.cc/rpHvynK3/maxresdefault.jpg",
         "MainCategory": "Movies",
