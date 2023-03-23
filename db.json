@@ -1,6 +1,14 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Tu Zakhm Hai S2",
+        "Image": "https://i.postimg.cc/g2LyQ3VW/maxresdefault-1.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "xgtoikadynel",
+        "id": 84
+        },
+        {
         "Title": "Jalan S1E1 Hunters",
         "Image": "https://i.postimg.cc/G2ScFTpg/Watch-Online-Jalan-Hunters-Web-Series-All-Episodes-1024x576.jpg",
         "MainCategory": "Adult",
