@@ -1,6 +1,30 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Malai Season 1 Part 1 Ullu",
+        "Image": "https://i.postimg.cc/SsfLhHb1/maxresdefault-3.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "w8elk7xwhcks",
+        "id": 90
+        },
+        {
+        "Title": "Kanjoos Makhichoos Full Movie",
+        "Image": "https://i.postimg.cc/pX4sqbWK/kanjoos-makhichoos-kunal-kemmu.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "jkgyyum8hbwz",
+        "id": 89
+        },
+        {
+        "Title": "Chor Nikal Ke Bhaga Full Movie",
+        "Image": "https://i.postimg.cc/nrRDVDVN/Chor-Nikal-Ke-Bhaga-Movie-Download-300-MB-700-MB-1-5-GB-Film-Review.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Crime",
+        "FileID": "z1zuve1mpjor",
+        "id": 88
+        },
+        {
         "Title": "Rasbhari S1",
         "Image": "https://i.postimg.cc/kGs1dGnm/0c5082bb55754ed1a60cb67bb2b415d3e7770d6674ffa3b0b67ad9607544832f-UY500-UX667-RI-V-TTW.jpg",
         "MainCategory": "WebSeries",
