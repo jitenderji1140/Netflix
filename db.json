@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
-                 {
+        {
+        "Title": "Hariyo Patang Akhiyan Nu Cha | Folk Route ft. Arham & Ammy Rajwada ",
+        "Image": "https://i.postimg.cc/rybdqzcz/image.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "x8h6wzd",
+        "Plateform":"DailyMotion",   
+        "id": 95
+        },
+        {
         "Title": "Kaabil Full Movie | Hrithik Roshan, Yami Gautam, Ronit Roy, Rohit Roy",
         "Image": "https://i.postimg.cc/25RBtY5B/image.jpg",
         "MainCategory": "Movies",
