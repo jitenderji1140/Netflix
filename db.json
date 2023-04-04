@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Ziddi Dil Maane Na - ज़िद्दी दिल माने ना - Ep 02",
+        "Image": "https://i.postimg.cc/W3sRm98y/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "JqAGsp_RwQE",
+        "Plateform":"Youtube",   
+        "id": 97
+        },
+        {
         "Title": "O Re Piya | Full Song | Aaja Nachle | Madhuri Dixit | Rahat Fateh Ali Khan",
         "Image": "https://i.postimg.cc/J7TytwYF/maxresdefault.jpg",
         "MainCategory": "Songs",
