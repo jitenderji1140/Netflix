@@ -1,9 +1,18 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "O Re Piya | Full Song | Aaja Nachle | Madhuri Dixit | Rahat Fateh Ali Khan",
+        "Image": "https://i.postimg.cc/J7TytwYF/maxresdefault.jpg",
+        "MainCategory": "Songs",
+        "Geans": "Romantic",
+        "FileID": "iv7lcUkFVSc",
+        "Plateform":"Youtube",   
+        "id": 96
+        },
+        {
         "Title": "Hariyo Patang Akhiyan Nu Cha | Folk Route ft. Arham & Ammy Rajwada ",
         "Image": "https://i.postimg.cc/rybdqzcz/image.jpg",
-        "MainCategory": "Movies",
+        "MainCategory": "Songs",
         "Geans": "Romantic",
         "FileID": "x8h6wzd",
         "Plateform":"DailyMotion",   
