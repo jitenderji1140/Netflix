@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Gutar Gu S1",
+        "Image": "https://i.postimg.cc/1zL35kVt/499c2dd0ba1bf2e331da624681f012ed99f078cf7b7ea38a0e6b579acb1f3eab.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "uxvv6k5xip5u",
+        "Plateform":"filemoon",    
+        "id": 108
+        },
+        {
         "Title": "Tu Zakhm Hai S2",
         "Image": "https://i.postimg.cc/sggX4rY1/test-pic1679504835967-badged-1679506887030.jpg",
         "MainCategory": "WebSeries",
