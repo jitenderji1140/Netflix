@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Tu Zakhm Hai S2",
+        "Image": "https://i.postimg.cc/sggX4rY1/test-pic1679504835967-badged-1679506887030.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "bfzvpby58u4u",
+        "Plateform":"filemoon",    
+        "id": 107
+        },
+        {
         "Title": "Aashiqana S-3 E-29",
         "Image": "https://i.postimg.cc/vZFBf27j/maxresdefault.jpg",
         "MainCategory": "WebSeries",
