@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Faraaz (2023) Hindi HD",
+        "Image": "https://i.postimg.cc/Y9HhvT70/1f64816c5996d639b8bd398b84359228.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "jgJr6Ray7VFzpRo",
+        "Plateform":"streamtape",   
+        "id": 98
+        },
+        {
         "Title": "Ziddi Dil Maane Na - ज़िद्दी दिल माने ना - Ep 02",
         "Image": "https://i.postimg.cc/W3sRm98y/maxresdefault.jpg",
         "MainCategory": "WebSeries",
