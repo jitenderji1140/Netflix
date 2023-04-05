@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Aar Ya Paar S1 Hotstar",
+        "Image": "https://i.postimg.cc/sDsYC9Hk/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "63u7xapo0ust",
+        "Plateform":"filemoon",    
+        "id": 109
+        },
+        {
         "Title": "Gutar Gu S1",
         "Image": "https://i.postimg.cc/1zL35kVt/499c2dd0ba1bf2e331da624681f012ed99f078cf7b7ea38a0e6b579acb1f3eab.jpg",
         "MainCategory": "WebSeries",
