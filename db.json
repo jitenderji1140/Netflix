@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Gaslight (2023) Hindi HD",
+        "Image": "https://i.postimg.cc/J4NmntnN/2303311716557997.png",
+        "MainCategory": "Movies",
+        "Geans": "Crime",
+        "FileID": "R7d6B6LrjgSdVap",
+        "Plateform":"streamtape",   
+        "id": 99
+        },
+        {
         "Title": "Faraaz (2023) Hindi HD",
         "Image": "https://i.postimg.cc/Y9HhvT70/1f64816c5996d639b8bd398b84359228.jpg",
         "MainCategory": "Movies",
