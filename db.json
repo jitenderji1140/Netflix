@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Padmaavat full movie",
+        "Image": "https://i.postimg.cc/3x9GRNMk/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "Vy7JqXA0vPiZB9",
+        "Plateform":"streamtape",   
+        "id": 104
+        },
+        {
         "Title": "Samjhawan Unplugged - Humpty Sharma Ki Dulhania | Alia Bhatt |",
         "Image": "https://i.postimg.cc/GpRP5VFC/65008506.jpg",
         "MainCategory": "Songs",
