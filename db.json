@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "BAABUL Full Movie {HD} | Amitabh Bachchan, Salman Khan",
+        "Image": "https://i.postimg.cc/L8dB0FKV/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "tmapoJhk__8",
+        "Plateform":"Youtube",    
+        "id": 110
+        },
+        {
         "Title": "Aar Ya Paar S1 Hotstar",
         "Image": "https://i.postimg.cc/sDsYC9Hk/maxresdefault.jpg",
         "MainCategory": "WebSeries",
