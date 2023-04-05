@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "CharmSukh Jane Anjane Mein S7 Ullu",
+        "Image": "https://ullu2-files.ullu.app/media-metadata/616aafe030b4da0b9203a496",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "w9cs96ew6q79",
+        "Plateform":"filemoon",    
+        "id": 112
+        },
+        {
         "Title": "Aadha Ishq S1",
         "Image": "https://i.ytimg.com/vi/d07L2secr0s/maxresdefault.jpg",
         "MainCategory": "WebSeries",
