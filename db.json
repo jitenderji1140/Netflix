@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Malai Part 2",
+        "Image": "https://i.postimg.cc/CxYWPg0S/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "ZzK3Bq3JoMcg2G",
+        "Plateform":"streamtape",   
+        "id": 100
+        },
+        {
         "Title": "Gaslight (2023) Hindi HD",
         "Image": "https://i.postimg.cc/J4NmntnN/2303311716557997.png",
         "MainCategory": "Movies",
