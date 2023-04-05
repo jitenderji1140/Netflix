@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Aashiqana S-3 E-29",
+        "Image": "https://i.postimg.cc/vZFBf27j/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "htyk5g0alf54",
+        "Plateform":"filemoon",   
+        "id": 106
+        },
+        {
         "Title": "Coka 2.0 | Liger | Vijay Deverakonda, Ananya Panday",
         "Image": "https://i.postimg.cc/GpJf76f0/maxresdefault.jpg",
         "MainCategory": "Songs",
