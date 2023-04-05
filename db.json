@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Aadha Ishq S1",
+        "Image": "https://i.ytimg.com/vi/d07L2secr0s/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "vfbhx0wox8ic",
+        "Plateform":"filemoon",    
+        "id": 111
+        },
+        {
         "Title": "BAABUL Full Movie {HD} | Amitabh Bachchan, Salman Khan",
         "Image": "https://i.postimg.cc/L8dB0FKV/maxresdefault.jpg",
         "MainCategory": "Movies",
