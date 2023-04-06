@@ -1,6 +1,33 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Flames Season 3",
+        "Image": "https://i.postimg.cc/RZvrrgD6/flames-3-rev-1.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "4yrho8mc30cj",
+        "Plateform":"filemoon",    
+        "id": 124
+        },
+        {
+        "Title": "Flames Season 2",
+        "Image": "https://i.postimg.cc/GtPMqCrM/test-pic1645160150605.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "txlbljor2w61",
+        "Plateform":"filemoon",    
+        "id": 123
+        },
+        {
+        "Title": "Flames Season 1",
+        "Image": "https://i.postimg.cc/Qdfy2h7w/test-pic1531142265775.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "q434t36f0c13",
+        "Plateform":"filemoon",    
+        "id": 122
+        },
+        {
         "Title": "United Kacche S1 Hindi",
         "Image": "https://i.postimg.cc/wB9RHhYG/maxresdefault.jpg",
         "MainCategory": "WebSeries",
