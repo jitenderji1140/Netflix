@@ -1,6 +1,69 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Mrs Teacher S3 E3",
+        "Image": "https://i.postimg.cc/TP6kSQ3L/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "i10awzjt198r",
+        "Plateform":"filemoon",    
+        "id": 120
+        },
+        {
+        "Title": "Mrs Teacher S3 E2",
+        "Image": "https://i.postimg.cc/TP6kSQ3L/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "a068unzlhmca",
+        "Plateform":"filemoon",    
+        "id": 119
+        },
+        {
+        "Title": "Mrs Teacher S3 E1",
+        "Image": "https://i.postimg.cc/TP6kSQ3L/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "a068unzlhmca",
+        "Plateform":"filemoon",    
+        "id": 118
+        },
+        {
+        "Title": "Mrs Teacher S2 E2",
+        "Image": "https://i.postimg.cc/fTPpHxdm/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "rnoul3grkz5l",
+        "Plateform":"filemoon",    
+        "id": 117
+        },
+        {
+        "Title": "Mrs Teacher S2 E1",
+        "Image": "https://i.postimg.cc/fTPpHxdm/maxresdefault.jpg",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "hfttdgqv8sba",
+        "Plateform":"filemoon",    
+        "id": 116
+        },
+        {
+        "Title": "Mrs Teacher S1 E2",
+        "Image": "https://i.postimg.cc/NFwSvsM7/Mrs-Teacher-Watch-Online-Primeshots-Web-Series-Cast-Crew-wiki-story-synopsis.webp",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "pw59rlhi9827",
+        "Plateform":"filemoon",    
+        "id": 115
+        },
+        {
+        "Title": "Mrs Teacher S1 E1",
+        "Image": "https://i.postimg.cc/NFwSvsM7/Mrs-Teacher-Watch-Online-Primeshots-Web-Series-Cast-Crew-wiki-story-synopsis.webp",
+        "MainCategory": "Adult",
+        "Geans": "MastiPrime",
+        "FileID": "5s5027ltapj2",
+        "Plateform":"filemoon",    
+        "id": 114
+        },
+        {
         "Title": "The Last Coffee",
         "Image": "https://media.thekashmirmonitor.net/wp-content/uploads/2023/02/the-last-coffee-maxresdefault.jpg",
         "MainCategory": "Movies",
