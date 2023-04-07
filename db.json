@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Jubilee S1",
+        "Image": "https://i.postimg.cc/L4GkXgqj/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "ckp2ue8hzidd",
+        "Plateform":"filemoon",    
+        "id": 128
+        },
+        {
         "Title": "Agilan Hindi Dubbed Full movie",
         "Image": "https://i.postimg.cc/9FMcLCdf/maxresdefault.jpg",
         "MainCategory": "Movies",
