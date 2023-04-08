@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Hero (2023) New South Hindi Dubbed",
+        "Image": "https://i.postimg.cc/fyHrSkkV/uzyLFu.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "ldsf42hnacaz",
+        "Plateform":"filemoon",    
+        "id": 145
+        },
+        {
         "Title": "Bhool Bhulaiyaa 2 (2022) Full Movie",
         "Image": "https://i.postimg.cc/TwvNndpd/Bhool-Bhulaiyaa-2.jpg",
         "MainCategory": "Movies",
