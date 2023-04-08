@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Bhool Bhulaiyaa 2 (2022) Full Movie",
+        "Image": "https://i.postimg.cc/TwvNndpd/Bhool-Bhulaiyaa-2.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "430siqcm5nqg",
+        "Plateform":"filemoon",    
+        "id": 144
+        },
+        {
+        "Title": "Kabzaa (2023) Hindi Dubbed",
+        "Image": "https://i.postimg.cc/MTX2rKzy/kabzaa-4k-official-teaserupendra.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "gmrif33alpwp",
+        "Plateform":"filemoon",    
+        "id": 143
+        },
+        {
         "Title": "Dilwale Dulhania Le Jayenge",
         "Image": "https://i.postimg.cc/0NCM8ZR8/maxresdefault.jpg",
         "MainCategory": "Movies",
