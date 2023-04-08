@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Baaghi Full Movie In Hindi (2016)",
+        "Image": "https://i.postimg.cc/FKS3HTm5/baaghi-movie-wallpaper.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "ful8uryqdvmt",
+        "Plateform":"filemoon",    
+        "id": 130
+        },
+        {
+        "Title": "R Rajkumar Hindi",
+        "Image": "https://i.postimg.cc/FRqMVF8J/d704ddb0744311e689eddbce9487c672-1605256645328-l.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "nj2iqjvfwnzv",
+        "Plateform":"filemoon",    
+        "id": 129
+        },
+        {
         "Title": "Jubilee S1",
         "Image": "https://i.postimg.cc/L4GkXgqj/maxresdefault.jpg",
         "MainCategory": "WebSeries",
