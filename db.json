@@ -1,6 +1,33 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Dilwale Dulhania Le Jayenge",
+        "Image": "https://i.postimg.cc/0NCM8ZR8/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "bctwsc0go524",
+        "Plateform":"filemoon",    
+        "id": 142
+        },
+        {
+        "Title": "Om Shanti Om Full Movie",
+        "Image": "https://i.postimg.cc/D0bWh6yw/test-pic1570703607738.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "d0dn16kjtrkk",
+        "Plateform":"filemoon",    
+        "id": 141
+        },
+        {
+        "Title": "Krrish Full Movie",
+        "Image": "https://i.postimg.cc/wB692VCs/4914302068001-new.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "lkftcq2rji78",
+        "Plateform":"filemoon",    
+        "id": 140
+        },
+        {
         "Title": "Poster Boys Full Movies",
         "Image": "https://i.postimg.cc/DZJhjwsT/AAAABRv-KSl3-Lc-C3-DZV0g-m-Ziy-QYbr6v-SA26-PC0-Mw-Sfcz-Qn0zr-PRSYe-I53pr-LK5-Eq-OCc-KX0o-Rh-App3-JFk-Gwudm-JTP-6nu-s-JFdl-D.jpg",
         "MainCategory": "Movies",
