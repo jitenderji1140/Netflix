@@ -1,6 +1,33 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Avatar: The Way of Water Full Movie in English",
+        "Image": "https://i.postimg.cc/QMZgrH1Q/Avatar-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "53r63ow4ys22",
+        "Plateform":"filemoon",    
+        "id": 153
+        },
+        {
+        "Title": "Shazam! Fury of the Gods",
+        "Image": "https://i.postimg.cc/DwKFF0Xn/shazam-fury-of-the-gods-et00312239-1678088844.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "lm5k9wkezcqx",
+        "Plateform":"filemoon",    
+        "id": 152
+        },
+        {
+        "Title": "Murder Mystery 2 Full Movie",
+        "Image": "https://i.postimg.cc/4xsJTyDV/p16962226-v-h10-af.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "3kf10pd8mg6z",
+        "Plateform":"filemoon",    
+        "id": 151
+        },
+        {
         "Title": "college detectives (2023) S1 E1 ",
         "Image": "https://i.postimg.cc/gJFY4t0m/19e296933ac36b769b0684921a51969c90f85a0c9fb20a72918a733c42cdb05b.jpg",
         "MainCategory": "WebSeries",
