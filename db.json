@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Mannphodganj Ki Binny",
+        "Image": "https://i.postimg.cc/XYnX2gJt/maxresdefault.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "bxhaq2doyz0i",
+        "Plateform":"filemoon",    
+        "id": 154
+        },
+        {
         "Title": "Avatar: The Way of Water Full Movie in English",
         "Image": "https://i.postimg.cc/QMZgrH1Q/Avatar-1.jpg",
         "MainCategory": "Movies",
