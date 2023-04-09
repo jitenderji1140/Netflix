@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "college detectives (2023) S1 E1 ",
+        "Image": "https://i.postimg.cc/gJFY4t0m/19e296933ac36b769b0684921a51969c90f85a0c9fb20a72918a733c42cdb05b.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "5d4n5a5t57my",
+        "Plateform":"filemoon",    
+        "id": 150
+        },
+        {
         "Title": "Darr Full Movie",
         "Image": "https://i.postimg.cc/cLdq6rmc/maxresdefault.jpg",
         "MainCategory": "Movies",
