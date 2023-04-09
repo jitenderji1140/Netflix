@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Darr Full Movie",
+        "Image": "https://i.postimg.cc/cLdq6rmc/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "q963wx3aa572",
+        "Plateform":"filemoon",    
+        "id": 149
+        },
+        {
+        "Title": "Khal Nayak Full Movie",
+        "Image": "https://i.postimg.cc/Y2FzV8Hv/khalnayak-h.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "bcvfzjhmp7xi",
+        "Plateform":"filemoon",    
+        "id": 148
+        },
+        {
         "Title": "Crushed S2",
         "Image": "https://i.postimg.cc/66rmkBVJ/crushed-season-2-375-1024x576.webp",
         "MainCategory": "WebSeries",
