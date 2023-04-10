@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Medically Yours S1",
+        "Image": "https://i.postimg.cc/gJy8WXq7/1558941871829-1566405612812-l.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "03lcxwm4sehv",
+        "Plateform":"filemoon",    
+        "id": 162
+        },
+        {
         "Title": "dilwale Full Movie",
         "Image": "https://i.postimg.cc/26RdkbgP/thequint-2015-12-a94fdc28-f86e-4c7d-8201-8c06f3ba3c21-Dilwale-WEB.jpg",
         "MainCategory": "Movies",
