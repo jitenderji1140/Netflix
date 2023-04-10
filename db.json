@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Titanic Full Hindi In English",
+        "Image": "https://i.postimg.cc/QCVZsJVq/p20056-v-h10-bh.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "00ntc1twjyw3",
+        "Plateform":"filemoon",    
+        "id": 164
+        },
+        {
+        "Title": "Titanic Full Hindi In Hindi",
+        "Image": "https://i.postimg.cc/QCVZsJVq/p20056-v-h10-bh.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "aaan7ejngfey",
+        "Plateform":"filemoon",    
+        "id": 163
+        },
+        {
         "Title": "Medically Yours S1",
         "Image": "https://i.postimg.cc/gJy8WXq7/1558941871829-1566405612812-l.jpg",
         "MainCategory": "WebSeries",
