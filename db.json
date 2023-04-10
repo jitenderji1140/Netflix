@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Pathaan (2023) Hindi Full Movie",
+        "Image": "https://i.postimg.cc/9QzWscd6/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "lt67mt3nwddz",
+        "Plateform":"filemoon",    
+        "id": 167
+        },
+        {
         "Title": "Akhanda (2023) South Hindi",
         "Image": "https://i.postimg.cc/4ytc6zd1/maxresdefault.jpg",
         "MainCategory": "Movies",
