@@ -1,6 +1,69 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "dilwale Full Movie",
+        "Image": "https://i.postimg.cc/26RdkbgP/thequint-2015-12-a94fdc28-f86e-4c7d-8201-8c06f3ba3c21-Dilwale-WEB.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "dfrduo2j4gaz",
+        "Plateform":"filemoon",    
+        "id": 161
+        },
+        {
+        "Title": "krrish 3 full movie",
+        "Image": "https://i.postimg.cc/7h5WFTzj/4645549591001.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "ngtf9uv7ydlr",
+        "Plateform":"filemoon",    
+        "id": 160
+        },
+        {
+        "Title": "great-grand-masti Full Movie",
+        "Image": "https://i.postimg.cc/RFQqxN7C/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "1pzk9gan1kdm",
+        "Plateform":"filemoon",    
+        "id": 159
+        },
+        {
+        "Title": "dhoom 3 Full Movie",
+        "Image": "https://i.postimg.cc/Y2grSkKM/image.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "zkndkhttsfww",
+        "Plateform":"filemoon",    
+        "id": 158
+        },
+        {
+        "Title": "dhoom 2 Full Movie",
+        "Image": "https://i.postimg.cc/t4WtrKWk/dhoom2-mobile.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "bamwdxokjrrv",
+        "Plateform":"filemoon",    
+        "id": 157
+        },
+        {
+        "Title": "dhoom 1 Full Movie",
+        "Image": "https://i.postimg.cc/zGrRfVHw/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "vn969buf1ur2",
+        "Plateform":"filemoon",    
+        "id": 156
+        },
+        {
+        "Title": "champions Full Movie",
+        "Image": "https://i.postimg.cc/5N5VbGSK/p21802820-v-h8-aa.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "394sa9371uz9",
+        "Plateform":"filemoon",    
+        "id": 155
+        },
+        {
         "Title": "Mannphodganj Ki Binny",
         "Image": "https://i.postimg.cc/XYnX2gJt/maxresdefault.jpg",
         "MainCategory": "WebSeries",
