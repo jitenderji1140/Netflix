@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Transatlantic S1 in Hindi",
+        "Image": "https://i.postimg.cc/hGWNrw4J/transatlantic-official-trailer-netflix-youtube-thumbnail-1680504600833-928-Photo-Room.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "2utefaz5lgm4",
+        "Plateform":"filemoon",    
+        "id": 190
+        },
+        {
         "Title": "PathShala S3E1",
         "Image": "https://i.postimg.cc/gJPqt4dM/Path-Shala-Season-3.jpg",
         "MainCategory": "Adult",
