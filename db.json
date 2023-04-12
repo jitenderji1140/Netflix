@@ -1,6 +1,42 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Gerua - Diwale",
+        "Image": "https://i.postimg.cc/26MNPXLM/maxresdefault-Photo-Room-1.jpg",
+        "MainCategory": "Songs",
+        "Geans": "Romantic",
+        "FileID": "OwIGLZ859EE",
+        "Plateform":"Youtube",    
+        "id": 197
+        },
+        {
+        "Title": "Janam Janam – Dilwale | Shah Rukh Khan | Kajol |",
+        "Image": "https://i.postimg.cc/NMQgdTtr/maxresdefault-Photo-Room.jpg",
+        "MainCategory": "Songs",
+        "Geans": "Romantic",
+        "FileID": "zYA6YN01rHc",
+        "Plateform":"Youtube",    
+        "id": 196
+        },
+        {
+        "Title": "Arijit Singh: Bairiya | Amitabh B |",
+        "Image": "https://i.postimg.cc/x1Lt9brC/maxresdefault.jpg",
+        "MainCategory": "Songs",
+        "Geans": "Drama",
+        "FileID": "gHa0YlssZis",
+        "Plateform":"Youtube",    
+        "id": 195
+        },
+        {
+        "Title": "Pop Kaun? | Official Music Video",
+        "Image": "https://i.postimg.cc/CLSKc3FQ/maxresdefault.jpg",
+        "MainCategory": "Songs",
+        "Geans": "Comedy",
+        "FileID": "YaQDLHlkG8Q",
+        "Plateform":"Youtube",    
+        "id": 194
+        },
+        {
         "Title": "The Boarding School: Las Cumbres S3 in Hindi",
         "Image": "https://i.postimg.cc/nrKxth1Q/The-Boarding-School-Las-Cumbres-1200x675.jpg",
         "MainCategory": "WebSeries",
