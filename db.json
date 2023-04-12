@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "The Boarding School: Las Cumbres S3 in Hindi",
+        "Image": "https://i.postimg.cc/nrKxth1Q/The-Boarding-School-Las-Cumbres-1200x675.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "ljrs1pgvfgsv",
+        "Plateform":"filemoon",    
+        "id": 193
+        },
+        {
         "Title": "Mr & Miss (2023) Full Movie in Hindi",
         "Image": "https://i.postimg.cc/vB1V9scc/uzvh40.jpg",
         "MainCategory": "Movies",
