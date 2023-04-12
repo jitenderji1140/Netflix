@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Mr & Miss (2023) Full Movie in Hindi",
+        "Image": "https://i.postimg.cc/vB1V9scc/uzvh40.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "4bzs1ir7vde9",
+        "Plateform":"filemoon",    
+        "id": 192
+        },
+        {
+        "Title": "A Good Person",
+        "Image": "https://i.postimg.cc/GtqK7z3N/header.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "uxzhdmn5ysqw",
+        "Plateform":"filemoon",    
+        "id": 191
+        },
+        {
         "Title": "Transatlantic S1 in Hindi",
         "Image": "https://i.postimg.cc/hGWNrw4J/transatlantic-official-trailer-netflix-youtube-thumbnail-1680504600833-928-Photo-Room.jpg",
         "MainCategory": "WebSeries",
