@@ -1,6 +1,33 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Ant-Man and the Wasp Quantumania (2023)",
+        "Image": "https://i.postimg.cc/CxRMfnhk/ezgif-3-3dc856216b-1024x576.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "6it862t95q43",
+        "Plateform":"filemoon",    
+        "id": 200
+        },
+        {
+        "Title": "Idhe Maa Katha (2023) in Hindi Full Movie",
+        "Image": "https://i.postimg.cc/RCpTL21f/1657722936-poster-h-hi.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "1x8jc65qm651",
+        "Plateform":"filemoon",    
+        "id": 199
+        },
+        {
+        "Title": "Kali Jotta (2023) Punjabi Full Movie",
+        "Image": "https://i.postimg.cc/L52GkwjG/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "h609hjelkmmi",
+        "Plateform":"filemoon",    
+        "id": 198
+        },
+        {
         "Title": "Gerua - Diwale",
         "Image": "https://i.postimg.cc/26MNPXLM/maxresdefault-Photo-Room-1.jpg",
         "MainCategory": "Songs",
