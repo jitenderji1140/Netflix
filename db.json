@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Shehzada (2023) in Hindi Full Movie",
+        "Image": "https://i.postimg.cc/G3k1CbXP/maxresdefault-min-Photo-Room.webp",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "fsex54qw3bzk",
+        "Plateform":"filemoon",    
+        "id": 202
+        },
+        {
+        "Title": "Kabzaa (2023) in Hindi",
+        "Image": "https://i.postimg.cc/26njMhqh/d2d116407a70ee96f2faab5c48ea10d8-Photo-Room.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Crime",
+        "FileID": "qc8qmlfe5ucj",
+        "Plateform":"filemoon",    
+        "id": 201
+        },
+        {
         "Title": "Ant-Man and the Wasp Quantumania (2023)",
         "Image": "https://i.postimg.cc/CxRMfnhk/ezgif-3-3dc856216b-1024x576.jpg",
         "MainCategory": "Movies",
