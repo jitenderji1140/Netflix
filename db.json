@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Babul Meriya Guddiya (2023)",
+        "Image": "https://i.postimg.cc/tJYgp7mq/dwqd-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "p0d3sz1asi3s",
+        "Plateform":"filemoon",    
+        "id": 210
+        },
+        {
         "Title": "Pride: Seven Deadly Sins",
         "Image": "https://i.postimg.cc/NF4GDXFD/p24029577-v-h8-aa.jpg",
         "MainCategory": "WebSeries",
