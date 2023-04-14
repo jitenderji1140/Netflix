@@ -1,6 +1,69 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Pride: Seven Deadly Sins",
+        "Image": "https://i.postimg.cc/NF4GDXFD/p24029577-v-h8-aa.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "4o9hbl5debgk",
+        "Plateform":"filemoon",    
+        "id": 209
+        },
+        {
+        "Title": "Infidelity",
+        "Image": "https://i.postimg.cc/J0TKjTNQ/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "ikq8nc70oyy3",
+        "Plateform":"filemoon",    
+        "id": 208
+        },
+        {
+        "Title": "Dance for Me",
+        "Image": "https://i.postimg.cc/gJ12rp5y/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "e8eiyft1mvbx",
+        "Plateform":"filemoon",    
+        "id": 207
+        },
+        {
+        "Title": "Engaged to Be Murdered",
+        "Image": "https://i.postimg.cc/52DLdc9z/1200x675.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "l7ku49mmyyko",
+        "Plateform":"filemoon",    
+        "id": 206
+        },
+        {
+        "Title": "Giving Hope: The Ni'cola Mitchell Story",
+        "Image": "https://i.postimg.cc/3RRLS5tv/4-C4-UT3-C76-FER5-PLIKQPQO6-DIYM.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "jlox6hjmzigj",
+        "Plateform":"filemoon",    
+        "id": 205
+        },
+        {
+        "Title": "Ripper's Revenge",
+        "Image": "https://i.postimg.cc/fTZdDjhH/Rippers-Revenge.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "9vcknxlh6xrj",
+        "Plateform":"filemoon",    
+        "id": 204
+        },
+        {
+        "Title": "Grease: Rise of the Pink Ladies: Inside the Series",
+        "Image": "https://i.postimg.cc/tJvBQrmM/Grease-Rise-Pink-Ladies-Everything-Know-0002-Photo-Room.webp",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "8kjnh6p9mh75",
+        "Plateform":"filemoon",    
+        "id": 203
+        },
+        {
         "Title": "Shehzada (2023) in Hindi Full Movie",
         "Image": "https://i.postimg.cc/G3k1CbXP/maxresdefault-min-Photo-Room.webp",
         "MainCategory": "Movies",
