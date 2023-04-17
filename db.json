@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Chhota Bheem S16 Complete",
+        "Image": "https://i.postimg.cc/T3fGnYsP/20230303-220959.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Comedy",
+        "FileID": "doljuxa1e160",
+        "Plateform":"filemoon",    
+        "id": 230
+        },
+        {
+        "Title": "Das Ka Dhamki in  Hindi",
+        "Image": "https://i.postimg.cc/k4skyJ3Q/et00344659-flxfxunsrk-landscape.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "1f16xooqyg7f",
+        "Plateform":"filemoon",    
+        "id": 229
+        },
+        {
         "Title": "The Real Cost",
         "Image": "https://i.postimg.cc/pXB1RH7D/Found-It30-041015-344.jpg",
         "MainCategory": "Movies",
