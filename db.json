@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Bahubali The Beginning (2015) Hindi",
+        "Image": "https://i.postimg.cc/DwPmyQrx/1589286971-b2.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "9aygek4xmt8v",
+        "Plateform":"filemoon",    
+        "id": 232
+        },
+        {
         "Title": "Ant-Man and the Wasp: Quantumania",
         "Image": "https://i.postimg.cc/HsKrKG7Q/ant-man-and-the-wasp-quantumania-et00302402-1674555096.jpg",
         "MainCategory": "Movies",
