@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Obsession S1 (2023) ",
+        "Image": "https://i.postimg.cc/PJD22S8c/maxresdefault-Photo-Room.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "zh3eu5yo1wh1",
+        "Plateform":"filemoon",    
+        "id": 247
+        },
+        {
         "Title": "Chimp Empire S1 in Hindi",
         "Image": "https://i.postimg.cc/BQD9Zk4L/p24383794-b-h10-ab.jpg",
         "MainCategory": "WebSeries",
