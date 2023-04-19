@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Chimp Empire S1 in Hindi",
+        "Image": "https://i.postimg.cc/BQD9Zk4L/p24383794-b-h10-ab.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Adventure",
+        "FileID": "fxyp7rvutx2e",
+        "Plateform":"filemoon",    
+        "id": 246
+        },
+        {
         "Title": "Happy Death Day in Hindi",
         "Image": "https://i.postimg.cc/3NpwGGC9/NBC-IN-001-A0211-P1200.jpg",
         "MainCategory": "Movies",
