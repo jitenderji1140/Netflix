@@ -1,6 +1,78 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Ala Vaikunthapurramuoo 2022 in Hindi",
+        "Image": "https://i.postimg.cc/NGdF1zpZ/maxresdefault-Photo-Room-5.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "fgdxlm7fblmk",
+        "Plateform":"filemoon",    
+        "id": 242
+        },
+        {
+        "Title": "Radhe shyam (2022) Full Movie in Hindi",
+        "Image": "https://i.postimg.cc/LXyPY0rB/maxresdefault-Photo-Room-4.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "zqnrw8xdw81c",
+        "Plateform":"filemoon",    
+        "id": 241
+        },
+        {
+        "Title": "NeverKiss Your Best Friend (2022) Web Series",
+        "Image": "https://i.postimg.cc/hvrGwJ0D/76451522-Photo-Room.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "nmimg9zse4al",
+        "Plateform":"filemoon",    
+        "id": 240
+        },
+        {
+        "Title": "Code-M S1 (2022) Web Series in hindi",
+        "Image": "https://i.postimg.cc/LXCGh2v9/1659872658020663200-73-Photo-Room.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "gmhjwdcidh2q",
+        "Plateform":"filemoon",    
+        "id": 239
+        },
+        {
+        "Title": "Code-M S2 (2022) Web Series in hindi",
+        "Image": "https://i.postimg.cc/Yq60GPKc/code-m-16x9-1665302888496-Photo-Room.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "dzvkyubvwt0j",
+        "Plateform":"filemoon",    
+        "id": 238
+        },
+        {
+        "Title": "War (2019)  Full Movie",
+        "Image": "https://i.postimg.cc/yYFSHdLz/maxresdefault-Photo-Room-3.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "gjnahqw7ijyw",
+        "Plateform":"filemoon",    
+        "id": 237
+        },
+        {
+        "Title": "Liger (2022) Full Movie in hindi",
+        "Image": "https://i.postimg.cc/cL20H79g/maxresdefault-Photo-Room-2.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "cc4uuppjzvix",
+        "Plateform":"filemoon",    
+        "id": 236
+        },
+        {
+        "Title": "SitaRamamm (2022) in Hindi Full Movie",
+        "Image": "https://i.postimg.cc/kGxn3rMn/maxresdefault-Photo-Room-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "j3mpc1sf93zb",
+        "Plateform":"filemoon",    
+        "id": 235
+        },
+        {
         "Title": "A Thousand and One",
         "Image": "https://i.postimg.cc/76t1x2BL/maxresdefault-Photo-Room.jpg",
         "MainCategory": "Movies",
