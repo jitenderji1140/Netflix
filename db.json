@@ -1,6 +1,33 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Quasi",
+        "Image": "https://i.postimg.cc/1RCNnw9Y/maxresdefault-Photo-Room-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "wemyol3ek5x3",
+        "Plateform":"filemoon",    
+        "id": 254
+        },
+        {
+        "Title": "Tamasha (2015) in Hindi",
+        "Image": "https://i.postimg.cc/DwCMXWbf/tamasha1170x658964faec2e1a142fdafef271f6e71be9c.webp",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "yni678iivc6s",
+        "Plateform":"filemoon",    
+        "id": 253
+        },
+        {
+        "Title": "The Ghazi Attack (2017) in hindi",
+        "Image": "https://i.postimg.cc/cCjpwrz8/maxresdefault.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "j58zh656wgrp",
+        "Plateform":"filemoon",    
+        "id": 252
+        },
+        {
         "Title": "You're Killing Me",
         "Image": "https://i.postimg.cc/FzfVTh0b/8-B38-WATqb-SGt-Lh-Q9-YUkqw6-Omlm-A.jpg",
         "MainCategory": "Movies",
