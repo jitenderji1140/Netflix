@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Khamoshiyanu (2015) in Hindi",
+        "Image": "https://i.postimg.cc/CxssNsr7/1096-549x313.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "dyuo9yr8lgr3",
+        "Plateform":"filemoon",    
+        "id": 249
+        },
+        {
+        "Title": "Fittrat (2019)",
+        "Image": "https://i.postimg.cc/3xDpWCm9/fitrat1170x658895457588-Photo-Room.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "cj76j4y2nsp0",
+        "Plateform":"filemoon",    
+        "id": 248
+        },
+        {
         "Title": "Obsession S1 (2023) ",
         "Image": "https://i.postimg.cc/PJD22S8c/maxresdefault-Photo-Room.jpg",
         "MainCategory": "WebSeries",
