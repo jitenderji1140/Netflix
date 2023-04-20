@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Tooth Pari: When Love Bites S1",
+        "Image": "https://i.postimg.cc/fbpkH1K9/Tooth-Pari-Netflix.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "2dv8coh87e7v",
+        "Plateform":"filemoon",    
+        "id": 255
+        },
+        {
         "Title": "Quasi",
         "Image": "https://i.postimg.cc/1RCNnw9Y/maxresdefault-Photo-Room-1.jpg",
         "MainCategory": "Movies",
