@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "You're Killing Me",
+        "Image": "https://i.postimg.cc/FzfVTh0b/8-B38-WATqb-SGt-Lh-Q9-YUkqw6-Omlm-A.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "w373qemr0vey",
+        "Plateform":"filemoon",    
+        "id": 251
+        },
+        {
+        "Title": "Permanent Roommates (2016) Season 2",
+        "Image": "https://i.postimg.cc/nLqQ3CsG/maxresdefault-Photo-Room.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "ay9avoq5xmrs",
+        "Plateform":"filemoon",    
+        "id": 250
+        },
+        {
         "Title": "Khamoshiyanu (2015) in Hindi",
         "Image": "https://i.postimg.cc/CxssNsr7/1096-549x313.jpg",
         "MainCategory": "Movies",
