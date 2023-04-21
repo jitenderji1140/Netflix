@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Puraani Havveli Ka Rahasya S1 (2023)",
+        "Image": "https://i.postimg.cc/kG7mwN45/1682083101095329100-73.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Romantic",
+        "FileID": "uu0lqrzs8w4c",
+        "Plateform":"filemoon",    
+        "id": 261
+        },
+        {
         "Title": "Garmi S1 (2023)",
         "Image": "https://i.postimg.cc/4yZ3jsr5/garmi3-landscape-thumb-dated-Photo-Room.webp",
         "MainCategory": "WebSeries",
