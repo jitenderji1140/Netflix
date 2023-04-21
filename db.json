@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Rain Basera Season 1 Part 3",
+        "Image": "https://i.postimg.cc/K868s0hz/image-Photo-Room.jpg",
+        "MainCategory": "Adult",
+        "Geans": "Ullu",
+        "FileID": "mz2clbre5b91",
+        "Plateform":"filemoon",    
+        "id": 257
+        },
+        {
+        "Title": "Selfiee (2023) in Hindi",
+        "Image": "https://i.postimg.cc/PqVSyPRz/maxresdefault-Photo-Room-2.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "3117jnb9rgl7",
+        "Plateform":"filemoon",    
+        "id": 256
+        },
+        {
         "Title": "Tooth Pari: When Love Bites S1",
         "Image": "https://i.postimg.cc/fbpkH1K9/Tooth-Pari-Netflix.jpg",
         "MainCategory": "WebSeries",
