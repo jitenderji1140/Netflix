@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Garmi S1 (2023)",
+        "Image": "https://i.postimg.cc/4yZ3jsr5/garmi3-landscape-thumb-dated-Photo-Room.webp",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "eoi1uqibpgtq",
+        "Plateform":"filemoon",    
+        "id": 260
+        },
+        {
+        "Title": "Dead Ringers S1 (2023)",
+        "Image": "https://i.postimg.cc/jScWzwnh/tv-drama-dead-ringers-2-Photo-Room.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Thriller",
+        "FileID": "90vinaawt4uq",
+        "Plateform":"filemoon",    
+        "id": 259
+        },
+        {
         "Title": "Kisi Ka Bhai Kisi Ki Jan (2023) in Hindi Full Movie",
         "Image": "https://i.postimg.cc/FHtw1FqP/maxresdefault-Photo-Room.jpg",
         "MainCategory": "Movies",
