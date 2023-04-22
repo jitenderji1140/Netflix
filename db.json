@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Life Upside Down (2023)",
+        "Image": "https://i.postimg.cc/zX2wy09k/ghosted-serie-apple.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "lzoej3pnxriw",
+        "Plateform":"filemoon",    
+        "id": 262
+        },
+        {
         "Title": "Puraani Havveli Ka Rahasya S1 (2023)",
         "Image": "https://i.postimg.cc/qvxbhS3Y/1682083101095329100-73.jpg",
         "MainCategory": "WebSeries",
