@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Big Dhamaka (2023) in Hindi",
+        "Image": "https://i.postimg.cc/Vv3WrjVW/dhamaka-movie-review-out-01-Photo-Room.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Action",
+        "FileID": "fvjhnk03q9xi",
+        "Plateform":"filemoon",    
+        "id": 264
+        },
+        {
         "Title": "Ghosted (2023)",
         "Image": "https://i.postimg.cc/zX2wy09k/ghosted-serie-apple.jpg",
         "MainCategory": "Movies",
