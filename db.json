@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Ghosted (2023)",
+        "Image": "https://i.postimg.cc/zX2wy09k/ghosted-serie-apple.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Adventure",
+        "FileID": "qbgnygxqwa28",
+        "Plateform":"filemoon",    
+        "id": 263
+        },
+        {
         "Title": "Life Upside Down (2023)",
         "Image": "https://i.postimg.cc/zX2wy09k/ghosted-serie-apple.jpg",
         "MainCategory": "Movies",
