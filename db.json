@@ -1,6 +1,15 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Pretty Stoned",
+        "Image": "https://i.postimg.cc/LXjHtP3T/p24483647-v-h8-aa.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Comedy",
+        "FileID": "bwfbcztq405u",
+        "Plateform":"filemoon",    
+        "id": 267
+        },
+        {
         "Title": "Justice League x RWBY: Super Heroes and Huntsmen Part One",
         "Image": "https://i.postimg.cc/8zpkSG34/justice-league-x-rwby-super-heroes-and-huntsmen-part-one.jpg",
         "MainCategory": "Movies",
