@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Virupaksha (2023) in Hindi",
+        "Image": "https://i.postimg.cc/Hxsqjsxg/Virupaksha-Movie-Review-Photo-Room.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "6gru5fgaq93k",
+        "Plateform":"filemoon",    
+        "id": 279
+        },
+        {
+        "Title": "Sarsenapati Hambirrao in Hindi",
+        "Image": "https://i.postimg.cc/Fsj9Jzpt/sarsenapati-hambirrao-movie-review-002.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "dg990ii09azt",
+        "Plateform":"filemoon",    
+        "id": 278
+        },
+        {
         "Title": "Annhi Dea Mazaak Ae ",
         "Image": "https://i.postimg.cc/FzKBWD8S/Annhi-Dea-Mazaak-Ae.jpg",
         "MainCategory": "Movies",
