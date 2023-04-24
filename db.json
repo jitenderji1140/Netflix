@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Annhi Dea Mazaak Ae ",
+        "Image": "https://i.postimg.cc/FzKBWD8S/Annhi-Dea-Mazaak-Ae.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "6kkljudin09i",
+        "Plateform":"filemoon",    
+        "id": 277
+        },
+        {
+        "Title": "Dancing on the Grave S1",
+        "Image": "https://i.postimg.cc/KzqqCtng/217ed0695c77eb44fd2511737de0864a4d00940327a915de7183df12f3cb04b8-UY500-UX667-RI-V-TTW.jpg",
+        "MainCategory": "WebSeries",
+        "Geans": "Drama",
+        "FileID": "cn33rfrb8y8h",
+        "Plateform":"filemoon",    
+        "id": 276
+        },
+        {
         "Title": "Republic (2023) in Hindi",
         "Image": "https://i.postimg.cc/vZJJmDvk/1170x658withlogob99308accfca44f781de1a1ee470597f0ec5a17bb7d34bf89126994420bb4bd5.webp",
         "MainCategory": "Movies",
