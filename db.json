@@ -1,6 +1,24 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "Republic (2023) in Hindi",
+        "Image": "https://i.postimg.cc/vZJJmDvk/1170x658withlogob99308accfca44f781de1a1ee470597f0ec5a17bb7d34bf89126994420bb4bd5.webp",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "zncojko1q2e6",
+        "Plateform":"filemoon",    
+        "id": 275
+        },
+        {
+        "Title": "Falling for a Killer",
+        "Image": "https://i.postimg.cc/hvLQQJFj/s640.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Thriller",
+        "FileID": "x686e7qilujd",
+        "Plateform":"filemoon",    
+        "id": 274
+        },
+        {
         "Title": "A Pinch of Portugal",
         "Image": "https://i.postimg.cc/K85K4ybD/maxresdefault-2.jpg",
         "MainCategory": "Movies",
