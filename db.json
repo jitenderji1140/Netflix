@@ -1,6 +1,33 @@
 {
     "NetFlixAPI" : [
         {
+        "Title": "A Pinch of Portugal",
+        "Image": "https://i.postimg.cc/K85K4ybD/maxresdefault-2.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Romantic",
+        "FileID": "cybgrhj71evl",
+        "Plateform":"filemoon",    
+        "id": 273
+        },
+        {
+        "Title": "Secrets on Greek Row",
+        "Image": "https://i.postimg.cc/BQPKnDL4/p24436104-st-h10-aa.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Drama",
+        "FileID": "4udd0af08zxp",
+        "Plateform":"filemoon",    
+        "id": 272
+        },
+        {
+        "Title": "Evil Dead Rise",
+        "Image": "https://i.postimg.cc/jSHHXNht/202331613937-1.jpg",
+        "MainCategory": "Movies",
+        "Geans": "Horror",
+        "FileID": "pxg1bo1fllie",
+        "Plateform":"filemoon",    
+        "id": 271
+        },
+        {
         "Title": "Drived (2019) in Hindi full Movie",
         "Image": "https://i.postimg.cc/hG1VsWfY/ew0-KICAg-ICAg-ICAg-ICAg-ICAg-ICAg-ICAi-Yn-Vja2-V0-Ijog-Im-Fycm-Vjb-G91-ZGlu-YXJ5-LWFw-LXNvd-XRo-LTEi-LA0-KICAg-ICAg-ICAg-ICAg.webp",
         "MainCategory": "Movies",
